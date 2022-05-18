@@ -1,4 +1,9 @@
 
+
+body {
+	background: green;
+}
+
 /* ----------- For screens 768px and larger ----------- */
 @media (min-width: 768px) and (max-width: 1199px) {
 	body {
